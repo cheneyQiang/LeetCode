@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ff66247-8b72-488a-93ba-c15b1fcfef7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/code/huawei/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCodeProject/META-INF/LeetCodeProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/huawei/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/huawei/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,18 +226,34 @@
       <workItem from="1595856172357" duration="3165000" />
       <workItem from="1596616138513" duration="3244000" />
       <workItem from="1597201919953" duration="424000" />
-      <workItem from="1597232526170" duration="4789000" />
+      <workItem from="1597232526170" duration="5063000" />
     </task>
+    <task id="LOCAL-00001" summary="增加了华为笔试题">
+      <created>1597237502628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597237502628</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加了华为笔试题" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了华为笔试题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594952623131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594952623131" />
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1597237501561">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1597237501561" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1597202376996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -299,6 +316,10 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594888002945" />
     <state x="2304" y="134" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1595594466792" />
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2" timestamp="1597237513476">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="78" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1597237513476" />
     <state x="885" y="147" width="786" height="833" key="find.popup" timestamp="1594696336665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

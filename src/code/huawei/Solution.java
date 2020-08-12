@@ -52,7 +52,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-
         if((new code.huawei.Solution()).exist() == 1)
             System.out.println("found ");
         else
