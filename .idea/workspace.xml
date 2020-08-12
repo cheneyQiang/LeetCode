@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ff66247-8b72-488a-93ba-c15b1fcfef7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JAVA\m2\repository" />
+        <option name="mavenHome" value="C:/Java/apache-maven-3.6.3-bin" />
+        <option name="userSettingsFile" value="D:\JAVA\m2\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dhY2qtJCKgzVOERaYMVMCsdXBV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.AlgorithmInterview.chaper3.BinarySearch" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.AlgorithmInterview.chaper3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question454.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question454.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question1_100.question24.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question1_100.question24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question447.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question447.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question1_100.question77.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question1_100.question77.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question201_300.question220.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question201_300.question220.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question201_300.question219.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question201_300.question219.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question1_100.question79.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question1_100.question79.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question101_200.question200.Solution" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.LeetCode.question101_200.question200.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.BinarySearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ff66247-8b72-488a-93ba-c15b1fcfef7a" name="Default Changelist" comment="" />
+      <created>1592878587479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592878587479</updated>
+      <workItem from="1592878589854" duration="9661000" />
+      <workItem from="1592962677371" duration="6988000" />
+      <workItem from="1593138523303" duration="6283000" />
+      <workItem from="1593268125574" duration="6276000" />
+      <workItem from="1594111533615" duration="4067000" />
+      <workItem from="1594370889037" duration="1779000" />
+      <workItem from="1594436613808" duration="12115000" />
+      <workItem from="1594557722103" duration="7920000" />
+      <workItem from="1594690208431" duration="8395000" />
+      <workItem from="1594777458333" duration="11684000" />
+      <workItem from="1594820793689" duration="128000" />
+      <workItem from="1594820934153" duration="747000" />
+      <workItem from="1594865141368" duration="4463000" />
+      <workItem from="1594887781152" duration="278000" />
+      <workItem from="1594952509964" duration="6076000" />
+      <workItem from="1595043383328" duration="13535000" />
+      <workItem from="1595404901018" duration="9426000" />
+      <workItem from="1595594481176" duration="102000" />
+      <workItem from="1595856172357" duration="3165000" />
+      <workItem from="1596616138513" duration="3244000" />
+      <workItem from="1597201919953" duration="424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594952623131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594952623131" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1597202376996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597202376996" />
+    <state x="2536" y="227" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1595594579487" />
+    <state x="810" y="410" width="299" height="288" key="Github.ShareDialog" timestamp="1597202340753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="410" width="299" height="288" key="Github.ShareDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597202340753" />
+    <state width="1540" height="202" key="GridCell.Tab.0.bottom" timestamp="1596684671607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1540" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="1557" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1540" height="202" key="GridCell.Tab.0.center" timestamp="1596684671607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1540" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="1557" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1540" height="202" key="GridCell.Tab.0.left" timestamp="1596684671607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1540" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="1557" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1540" height="202" key="GridCell.Tab.0.right" timestamp="1596684671607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1540" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="1557" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom" timestamp="1595321233819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595321233819" />
+    <state width="1557" height="180" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1877" height="270" key="GridCell.Tab.1.center" timestamp="1595321233819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595321233819" />
+    <state width="1557" height="180" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1877" height="270" key="GridCell.Tab.1.left" timestamp="1595321233818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595321233818" />
+    <state width="1557" height="180" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state width="1877" height="270" key="GridCell.Tab.1.right" timestamp="1595321233819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="270" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595321233819" />
+    <state width="1557" height="180" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
+    <state x="2304" y="134" key="SettingsEditor" timestamp="1595594466792">
+      <screen x="1920" y="0" width="1600" height="860" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594888002945" />
+    <state x="2304" y="134" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1595594466792" />
+    <state x="885" y="147" width="786" height="833" key="find.popup" timestamp="1594696336665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="885" y="147" width="786" height="833" key="find.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594696336665" />
+    <state x="334" y="87" key="new project wizard" timestamp="1595921196371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="87" key="new project wizard/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595921196371" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1594953013012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594953013012" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595315726507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1595315726507" />
+  </component>
+</project>
