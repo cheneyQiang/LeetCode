@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ff66247-8b72-488a-93ba-c15b1fcfef7a" name="Default Changelist" comment="" />
+    <list default="true" id="2ff66247-8b72-488a-93ba-c15b1fcfef7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/AlgorithmsAndDataStructures/chapter2/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/AlgorithmsAndDataStructures/chapter2/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/AlgorithmsAndDataStructures/sortTestHelper/SortTestHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/LeetCode/question1_100/question19/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/LeetCode/question1_100/question19/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +23,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\JAVA\javaProject\LeetCode\LeetCodeProject\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,6 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dhY2qtJCKgzVOERaYMVMCsdXBV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -40,6 +57,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -48,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.SortTestHelper">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.AlgorithmInterview.chaper3.BinarySearch" />
       <module name="LeetCodeProject" />
@@ -94,19 +112,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="code.LeetCode.question447.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="code.LeetCode.question1_100.question77.Solution" />
-      <module name="LeetCodeProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="code.LeetCode.question1_100.question77.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,8 +171,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortTestHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.AlgorithmsAndDataStructures.sortTestHelper.SortTestHelper" />
+      <module name="LeetCodeProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.AlgorithmsAndDataStructures.sortTestHelper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortTestHelper" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
@@ -220,18 +239,35 @@
       <workItem from="1595594481176" duration="102000" />
       <workItem from="1595856172357" duration="3165000" />
       <workItem from="1596616138513" duration="3244000" />
-      <workItem from="1597201919953" duration="424000" />
+      <workItem from="1597201919953" duration="1715000" />
+      <workItem from="1597480173715" duration="5246000" />
     </task>
+    <task id="LOCAL-00001" summary="台式机第一次提交">
+      <created>1597202488637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597202488637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="台式机第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="台式机第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594952623131">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594952623131" />
+    <state x="527" y="109" key="CommitChangelistDialog2" timestamp="1597202481746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="527" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597202481746" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1597202376996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -241,25 +277,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="810" y="410" width="299" height="288" key="Github.ShareDialog/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597202340753" />
-    <state width="1540" height="202" key="GridCell.Tab.0.bottom" timestamp="1596684671607">
+    <state width="938" height="259" key="GridCell.Tab.0.bottom" timestamp="1597482077164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1540" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="938" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597482077164" />
     <state width="1557" height="180" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
-    <state width="1540" height="202" key="GridCell.Tab.0.center" timestamp="1596684671607">
+    <state width="938" height="259" key="GridCell.Tab.0.center" timestamp="1597482077164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1540" height="202" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="938" height="259" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597482077164" />
     <state width="1557" height="180" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
-    <state width="1540" height="202" key="GridCell.Tab.0.left" timestamp="1596684671607">
+    <state width="938" height="259" key="GridCell.Tab.0.left" timestamp="1597482077164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1540" height="202" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="938" height="259" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597482077164" />
     <state width="1557" height="180" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
-    <state width="1540" height="202" key="GridCell.Tab.0.right" timestamp="1596684671607">
+    <state width="938" height="259" key="GridCell.Tab.0.right" timestamp="1597482077164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1540" height="202" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1596684671607" />
+    <state width="938" height="259" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597482077164" />
     <state width="1557" height="180" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1593270297326" />
     <state width="1877" height="270" key="GridCell.Tab.1.bottom" timestamp="1595321233819">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -286,6 +322,10 @@
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1594888002945" />
     <state x="2304" y="134" key="SettingsEditor/0.0.1920.1040/1920.0.1600.860@1920.0.1600.860" timestamp="1595594466792" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597202812619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1600.860@0.0.1920.1040" timestamp="1597202812619" />
     <state x="885" y="147" width="786" height="833" key="find.popup" timestamp="1594696336665">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

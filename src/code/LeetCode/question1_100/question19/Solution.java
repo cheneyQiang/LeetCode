@@ -19,6 +19,4 @@ public class Solution {
         p.next = p.next.next;
         return dummyHead.next;
     }
-
-
 }
