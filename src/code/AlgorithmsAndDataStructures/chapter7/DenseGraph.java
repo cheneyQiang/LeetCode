@@ -1,6 +1,8 @@
 package code.AlgorithmsAndDataStructures.chapter7;
 
 
+import java.util.Vector;
+
 //稠密图 - 邻接矩阵
 public class DenseGraph {
     private int n;//节点数
@@ -42,4 +44,16 @@ public class DenseGraph {
         assert w >= 0 && w < n ;
         return g[v][w];
     }
+
+    // 返回图中一个顶点的所有邻边
+    public Iterable<Integer> adj(int v){
+        assert v >= 0 && v < n;
+        Vector<Integer> adjV = new Vector<Integer>();
+        for (int i = 0; i < n; i++) {
+            if(g[v][i])
+                adjV.add(i);
+        }
+        return adjV;
+    }
+
 }
